@@ -2,6 +2,6 @@
 
 Nombre: Pedro Morales Cabañas 
 
-Materia: Lenguajes Interpretados
+Materia: Sistemas Operativos
 
 SSG: Docusaurus
