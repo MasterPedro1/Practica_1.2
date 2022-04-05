@@ -36,3 +36,4 @@ El sistema operativo posee tres componentes esenciales o paquetes de software qu
 - Dirigir las autorizaciones de uso para los usuarios.
 - Administrar los archivos
 
+[Regresar](README.md)

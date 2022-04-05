@@ -28,3 +28,5 @@ Para el desarrollo del módulo de usuarios, deberíamos trabajar de una forma en
 |*git checkout* (Nombre de a rama)|Sirve para colocarse en la rama que deseas|
 
 ![Git](https://www.adictosaltrabajo.com/wp-content/uploads/2020/01/intergracionportada.png)
+
+[Regresar](README.md)

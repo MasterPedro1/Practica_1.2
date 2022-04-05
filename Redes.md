@@ -41,3 +41,5 @@ Las redes pueden ser públicas o privadas. Si bien cualquiera puede acceder a In
 En la empresa, los sistemas de control de acceso a la red (NAC) suelen utilizar políticas de seguridad para controlar el acceso a la red de la organización. Esto significa que no se permite que los dispositivos de red se conecten a menos que cumplan con una política comercial predefinida, que es aplicada por los productos NAC. Cuando se implementan, los sistemas NAC descubren inmediatamente todos los dispositivos conectados a una red, los clasifican por tipo y luego reaccionan según las reglas de cumplimiento preconfiguradas implementadas por el equipo de seguridad de la organización.
 
 ![Redes Computacionales](https://www.b-secure.co/hs-fs/hubfs/shutterstock_222459103.jpg?width=521&name=shutterstock_222459103.jpg)
+
+[Regresar](README.md)
