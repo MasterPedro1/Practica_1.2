@@ -6,6 +6,6 @@ Materia: Sistemas Operativos
 
 SSG: Docusaurus
 
-[SO](SO.md)
-[Redes](Redes.md)
+[SO](SO.md)<br>
+[Redes](Redes.md)<br>
 [Git](Git.md)
